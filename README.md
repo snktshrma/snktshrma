@@ -26,10 +26,10 @@
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
-✔ I’m currently Developing a cool ROS package for **drones**<br>
-✔ I’m currently learning about **Elixir**🥰<br>
-✔ I’m looking to collaborate with any **Robotics related projects**<br>
-✔ Ask me anything you want; I am always on my Laptop 😉<br>
+✔ I’m currently Developing a cool ROS package for **drones**♦️<br>
+✔ I’m currently learning about **Elixir**🖖<br>
+✔ I’m looking to collaborate with any **Robotics related projects**🧩<br>
+✔ Ask me anything you want; I am always on my Laptop😉<br>
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My Toolkit***
 <p align="left">
