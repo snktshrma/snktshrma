@@ -29,7 +29,7 @@
 ✔ I’m currently Developing a cool ROS package for **drones**♦️<br>
 ✔ I’m currently learning about **Elixir**🖖<br>
 ✔ I’m looking to collaborate with any **Robotics related projects**🧩<br>
-✔ Quarter finalist at **SAMVEDANA 2021** | **2nd ranker at eYRC 2020**<br>
+✔ Quarter finalist at **SAMVEDANA 2021**(currently going on) | **2nd ranker at eYRC 2020**<br>
 ✔ Interned at **General aeronautics & IIT Bomaby**<br>
 ✔ Ask me anything you want; I am always on my Laptop😉<br>
 
