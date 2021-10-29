@@ -6,7 +6,7 @@
 </p>
 <hr>
 <h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I am Sanket Sharma </h1>
-<h3 align="center">Mechatronics Engineer | Roboticist </h3>
+<h3 align="center">Mechatronics Engineer | Roboticist | Freelancer</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/sanket-sharma-2002/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="lin_sanket" height="30" width="40" /></a>  
 <a href="https://www.instagram.com/snktshrma/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174855.png" alt="insta_sanket" height="30" width="40" /></a>
