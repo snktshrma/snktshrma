@@ -18,7 +18,7 @@
 
 <p align="center">
   <em>
-    Hey, I am Sanket Sharma, a <b>second year</b> undergraduate from <a href="https://www.cuchd.in//"> <b>Chandigarh University</b>, India</a>. <br>
+    Hey, I am Sanket Sharma, a <b>second year</b> undergraduate from INDIA. <br>
     <b>a passionate ROS developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Mechatronics Engineer</b>&nbsp;
   </em> 
   </p>
