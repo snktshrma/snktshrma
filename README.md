@@ -35,14 +35,7 @@
 
 <hr> 
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My major projects ....***
 
-- Autonomous drone<br>
-- Precision landing of drone on a moving platform<br>
-- Implementing robust SLAM algorithm on drone<br>
-- Parkinson's spoon<br>
-- Autonomous self balancing bot<br>
-- Device for blinds for navigation<br>
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My Toolkit***
 <p align="left">
