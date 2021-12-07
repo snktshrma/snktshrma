@@ -52,22 +52,18 @@
   <p align="center">
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=snktshrma&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=snktshrma&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
-<br><br><br><br><br>
+ <p> <a align= "center" href="https://github.com/ajitsohal">
+    <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=snktshrma&count_private=true&show_icons=true&bg_color=0D1117&text_color=FEFEFE&icon_color=FF0000&title_color=38D252&border_color=FEFEFE" />
+    <img align="right" alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=snktshrma&theme=github-dark&border=FEFEFE">
+  </a>
+</p>
 
-<hr>
+
+![github activity graph](https://activity-graph.herokuapp.com/graph?username=snktshrma&bg_color=0D1117&color=38D252&point=FEFEFE&line=FF0000&hide_title=true)
+ 
 
 
-<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
-<img src="https://github-profile-trophy.vercel.app/?username=snktshrma&theme=juicyfresh&no-bg=true" />
 
 
 -----
 <!-- Credits for template: [Ovindu Wijethunge](https://github.com/OvinduWijethunge) -->
-
-
-
-
-
-
