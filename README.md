@@ -42,7 +42,7 @@
 - Implementing robust SLAM algorithm on drone<br>
 - Parkinson's spoon<br>
 - Autonomous self balancing bot<br>
-- Device for blind for navigation<br>
+- Device for blinds for navigation<br>
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My Toolkit***
 <p align="left">
