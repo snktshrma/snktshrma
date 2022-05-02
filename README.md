@@ -1,8 +1,7 @@
  <p align="center">
 <img src="https://img.shields.io/badge/Age-19-blue" />
-  <img src="https://img.shields.io/badge/Focus-Robotics%20Programming-brightgreen" />
-  <img src="https://img.shields.io/badge/Lives-India-success" />
-  <img src="https://img.shields.io/badge/Languages-English%20%26%20Hindi-brightgreen" />
+  <img src="https://img.shields.io/badge/Focus-Robotics%20Programming-blue" />
+  <img src="https://img.shields.io/badge/Lives-India-blue" />
 </p>
 <hr>
 <h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I am Sanket Sharma </h1>
@@ -26,12 +25,11 @@
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
-✔ I’m currently Developing a cool ROS package for **drones**♦️<br>
-✔ I’m currently learning about **Elixir**🖖<br>
+✔ I’m currently Developing a cool ROS package for **humanoid robots, autonomous navigation and AI assistant**♦️<br>
+✔ I’m currently learning about **Blockchain and Smart Contracts**🖖<br>
 ✔ I’m looking to collaborate with any **Robotics related projects**🧩<br>
 ✔ Semi-finalist at **SAMVEDANA 2021** | **2nd ranker at eYRC 2020**<br>
 ✔ Interned at **General Aeronautics & IIT Bomaby**<br>
-✔ Ask me anything you want; I am always on my Laptop😉<br>
 
 <hr> 
 
