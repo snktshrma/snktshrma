@@ -13,7 +13,7 @@
 
 
 
-<h1><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;About me</h1>
+<h1>About me</h1>
 
 <ul>
 <li> I’m currently Developing a cool ROS package for humanoid robots, autonomous navigation and AI assistant♦️</li>
@@ -27,8 +27,7 @@
 <hr> 
 
 
-
-<h1><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;My Toolkit</h1>
+<h1>My Toolkit</h1>
 
 
 <p> 
@@ -45,7 +44,7 @@
 
   <hr>
   
- <h1><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<b>Git Activeness</b></h1>
+ <h1><b>Git Activeness</b></h1>
  
  <p>
     <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=snktshrma&count_private=true&show_icons=true&bg_color=0D1117&text_color=FEFEFE&icon_color=FF0000&title_color=38D252&border_color=FEFEFE" />
