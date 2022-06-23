@@ -36,6 +36,7 @@
   <a href="#"><img alt="c++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
   <a href="#"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-F38020?style=for-the-badge&logo=pytorch&logoColor=black"></a>
  <a href="#"><img alt="SciPy" src="https://img.shields.io/badge/SciPy-430098?style=for-the-badge&logo=scipy&logoColor=black"></a>
+   <a href="#"><img alt="GO" src="https://img.shields.io/badge/GO-1572B6?style=for-the-badge&logo=go&logoColor=white"></a>
   <a href="#"><img alt="Solidity" src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black"></a>
    <a href="#"><img alt="Elixir" src="https://img.shields.io/badge/Elixir-FF9900?style=for-the-badge&logo=elixir&logoColor=#E57324"></a>
   <a href="#"><img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></a>
