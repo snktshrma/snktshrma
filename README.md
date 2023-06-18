@@ -16,10 +16,9 @@
 <h1>About me</h1>
 
 <ul>
-<li> I’m currently Developing a cool assistive technology♦️</li>
-<li> I’m currently working Blockchain and Smart Contracts🖖</li>
-<li> I’m looking to collaborate with any Robotics and Blockchain related projects🧩</li>
-<li> Finalst at Smart India Hackkathon | Semi-finalist at SAMVEDANA 2021 | 2nd ranker at eYRC 2020</li>
+<li> I’m currently Developing a multi-communication solution♦️</li>
+<li> I’m currently working with advance control systems🖖</li>
+<li> Finalst at GCON Vegathon | Smart India Hackkathon | Semi-finalist at SAMVEDANA 2021 | 2nd ranker at eYRC 2020</li>
 <li> Google Summer of Code'22 at Ardupilot | Interned at General Aeronautics & IIT Bomaby</li>
  
 </ul>
