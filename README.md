@@ -18,7 +18,7 @@
 <ul>
 <li> I’m currently Developing a multi-communication solution</li>
 <li> I’m currently working with advance control systems</li>
-<li> Finalst at GCON Vegathon | Smart India Hackkathon | Semi-finalist at SAMVEDANA 2021 | 2nd ranker at eYRC 2020</li>
+<li> Finalist at GCON Vegathon | Smart India Hackkathon | Semi-finalist at SAMVEDANA 2021 | 2nd ranker at eYRC 2020</li>
 <li> Google Summer of Code'22 at Ardupilot | Interned at General Aeronautics & IIT Bomaby</li>
  
 </ul>
