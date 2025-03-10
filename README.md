@@ -11,18 +11,6 @@
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/snktshrma?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
 
-
-
-<h1>About me</h1>
-
-<ul>
-<li> I’m currently Developing a multi-communication solution</li>
-<li> I’m currently working with advance control systems</li>
-<li> Finalist at GCON Vegathon | Smart India Hackathon | Semi-finalist at SAMVEDANA 2021 | 2nd ranker at eYRC 2020</li>
-<li> Google Summer of Code'22 & '24 at Ardupilot | Technical Advisor at CUAV </li>
- 
-</ul>
-
 <hr> 
 
 
@@ -30,9 +18,9 @@
 
 
 <p> 
+    <a href="#"><img alt="c++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
  <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"></a>
  <a href="#"><img alt="ROS" src="https://img.shields.io/badge/ROS-1572B6?style=for-the-badge&logo=ros&logoColor=white"></a>
-  <a href="#"><img alt="c++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
   <a href="#"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-F38020?style=for-the-badge&logo=pytorch&logoColor=black"></a>
  <a href="#"><img alt="SciPy" src="https://img.shields.io/badge/SciPy-430098?style=for-the-badge&logo=scipy&logoColor=black"></a>
    <a href="#"><img alt="GO" src="https://img.shields.io/badge/GO-1572B6?style=for-the-badge&logo=go&logoColor=white"></a>
