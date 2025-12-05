@@ -1,6 +1,5 @@
 <h2 align="center">
-  Hi! I am Sanket Sharma
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  Hey!
 </h2>
 <br>
   
@@ -14,7 +13,7 @@
 <hr> 
 
 
-<h1>My Toolkit</h1>
+<h1>Toolkit</h1>
 
 
 <p> 
