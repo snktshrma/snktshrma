@@ -47,12 +47,6 @@
     width="400"
     src="https://github-readme-stats.vercel.app/api?username=snktshrma&count_private=true&show_icons=true&bg_color=0D1117&text_color=FEFEFE&icon_color=FF0000&title_color=38D252&border_color=FEFEFE"
   />
-  <img
-    align="right"
-    height="200"
-    width="400"
-    src="https://github-readme-streak-stats.herokuapp.com?user=snktshrma&theme=github-dark&border=FEFEFE"
-  />
 </p>
 
 ![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=snktshrma&bg_color=0D1117&color=38D252&point=FEFEFE&line=FF0000&hide_title=true)
